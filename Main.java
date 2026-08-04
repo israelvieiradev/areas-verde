@@ -22,6 +22,7 @@ public class Main {
                     "_________________________________\n" +
                     "Digite a opção que deseja acessar: ");
             opcao = entrada.nextLine().trim();
+
             switch (opcao) {
                 case "1":
                     //VALIDAÇÃO DE LISTA VAZIA
