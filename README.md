@@ -1,4 +1,4 @@
-<img src="./images/logo-areas-verde.png" alt="logo-areas-verde">
+<img src="./images/logo-areas-verde.png" alt="logo-areas-verde" width="80">
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/br/java/technologies/downloads)
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
