@@ -1,6 +1,4 @@
-<p align="center">
-    <h1>ÁREAS VERDE</h1>
-</p>
+<img src="./images/logo-areas-verde.png" alt="logo-areas-verde">
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/br/java/technologies/downloads)
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
@@ -30,7 +28,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 1. Cadastre a área verde
 2. Faça a avaliação
-3. Ver detalhe de uma área verde ou Listar áreas verdes
+3. Ver detalhe de uma área verde ou Listar áreas verde
 4. Encerrar programa
 
 ## Contribuidores
