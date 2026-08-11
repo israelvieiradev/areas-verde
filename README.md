@@ -39,5 +39,9 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
       <img src="./images/logo-senai-lab365.jpg" width="120"><br>
       <a href="https://github.com/lab365-operacao">LAB365</a>
     </td>
+    <td align="center">
+      <img src="./images/prof-joao.jpg" width="120"><br>
+      <a href="https://github.com/joaovictormo">Prof. João Victor</a>
+    </td>
   </tr>
 </table>
