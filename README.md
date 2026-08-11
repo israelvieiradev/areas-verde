@@ -3,6 +3,7 @@
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/br/java/technologies/downloads)
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://git-scm.com/)
 
 ## Sobre
 
@@ -14,6 +15,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ## Requisitos
 
+- Git 2.49.0: https://git-scm.com/
 - IDE utilizada IntelliJ IDEA 2025.2.1: https://www.jetbrains.com/pt-br/idea/download/?section=windows
 - JDK 24.0.2: https://www.oracle.com/br/java/technologies/downloads/
 
