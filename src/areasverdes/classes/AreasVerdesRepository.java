@@ -1,8 +1,8 @@
-package areasverde.classes;
+package areasverdes.classes;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AreasVerdeRepository {
+public class AreasVerdesRepository {
     private static List<AreaVerde> areasVerde = new ArrayList<>();
 
     public void salvar(AreaVerde novaAreaVerde){

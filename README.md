@@ -1,4 +1,4 @@
-<h1>ÁREAS VERDE</h1>
+<h1>ÁREAS VERDES</h1>
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/br/java/technologies/downloads)
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
@@ -6,9 +6,9 @@
 
 ## Sobre
 
-O Áreas Verde é um projeto desenvolvido para fins educacionais, com o objetivo de desenvolver um menu interativo via terminal com JAVA 24.0.2.
+O Áreas Verdes é um projeto desenvolvido para fins educacionais, com o objetivo de desenvolver um menu interativo via terminal com JAVA 24.0.2.
 
-A aplicação permite navegar pelo menu para gerenciamento de áreas verde em Joinville.
+A aplicação permite navegar pelo menu para gerenciamento de áreas verdes em Joinville.
 
 Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
 
@@ -19,7 +19,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ## Execução
 
-- Caminho do arquivo: `\areas-verde\src\areasverde>`
+- Caminho do arquivo: `\areas-verde\src\areasverdes>`
 - Inicialize o programa: `java Main.java`
 
 ### Passos recomendados

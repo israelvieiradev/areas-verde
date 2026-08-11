@@ -1,12 +1,12 @@
-package areasverde;
-import areasverde.classes.*;
+package areasverdes;
+import areasverdes.classes.*;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        AreasVerdeRepository areasVerdeRepository = new AreasVerdeRepository();
+        AreasVerdesRepository areasVerdeRepository = new AreasVerdesRepository();
         LocalizacoesRepository localizacaoRepository = new LocalizacoesRepository();
         AvaliacoesRepository avaliacaoRepository = new AvaliacoesRepository();
 

@@ -1,4 +1,4 @@
-package areasverde.classes;
+package areasverdes.classes;
 
 import java.util.ArrayList;
 import java.util.List;

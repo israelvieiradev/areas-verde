@@ -1,4 +1,4 @@
-package areasverde.classes;
+package areasverdes.classes;
 
 public class Avaliacao {
     private int idAreaV;
