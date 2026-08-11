@@ -24,7 +24,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ### Passos recomendados
 
-*O id da área verde corresponde à ordem cadastrada*
+*O ID da área verde corresponde à ordem de cadastro*
 
 1. Cadastre a área verde
 2. Faça a avaliação
