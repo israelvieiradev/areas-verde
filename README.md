@@ -19,7 +19,7 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ## Execução
 
-- Caminho do arquivo: `\areas-verde\src\areasverdes>`
+- Caminho do arquivo: `\areas-verdes\src\areasverdes>`
 - Inicialize o programa: `java Main.java`
 
 ### Passos recomendados
